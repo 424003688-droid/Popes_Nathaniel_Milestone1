@@ -1,0 +1,53 @@
+Student_ID,Age,Gender,Course,Attendance,Quiz_Score,Assignment_Score,Average_Score,Score_Category
+1001,19,Male,BSIT,92,88,90,89.0,Good
+1002,20,Female,BSIT,85,91,89,90.0,Excellent
+1003,19,Female,BSCS,78,82,80,81.0,Good
+1004,21,Male,BSCS,95,94,96,95.0,Excellent
+1005,20,Female,BSEMC,88,87.0,91,89.0,Good
+1006,20.0,Male,BSIT,75,79,77,78.0,Needs Improvement
+1007,19,Female,BSEMC,90,93,92,92.5,Excellent
+1008,22,Male,BSIT,68,72,70,71.0,Needs Improvement
+1009,20,Female,BSCS,97,95,96,95.5,Excellent
+1010,19,Male,BSIT,84,86,85,85.5,Good
+1011,21,Female,BSCS,85.0,89,88,88.5,Good
+1012,20,Male,BSEMC,91,90,92,91.0,Excellent
+1013,19,Female,BSIT,76,80,78,79.0,Needs Improvement
+1014,22,Male,BSCS,89,87,88,87.5,Good
+1015,20,Female,BSEMC,93,94,95,94.5,Excellent
+1016,19,Male,BSIT,81,79,88.0,83.5,Good
+1017,21,Female,BSCS,86,90,88,89.0,Good
+1018,20,Male,BSEMC,99,98,100,99.0,Excellent
+1019,19,Female,BSIT,73,75,74,74.5,Needs Improvement
+1020,21,Male,BSCS,87,85,86,85.5,Good
+1021,20,Female,BSIT,91,89,90,89.5,Good
+1022,19,Male,BSEMC,79,83,81,82.0,Good
+1023,22,Female,BSCS,94,92,93,92.5,Excellent
+1024,20,Male,BSIT,88,90,89,89.5,Good
+1025,21,Female,BSEMC,82,84,83,83.5,Good
+1026,19,Male,BSCS,90,91,90,90.5,Excellent
+1027,20,Female,BSIT,77,76,78,77.0,Needs Improvement
+1028,21,Male,BSEMC,85,87,86,86.5,Good
+1029,20,Female,BSCS,96,94,95,94.5,Excellent
+1030,19,Male,BSIT,71,74,72,73.0,Needs Improvement
+1031,21,Female,BSEMC,89,91,90,90.5,Excellent
+1032,20,Male,BSCS,83,85,84,84.5,Good
+1033,19,Female,BSIT,92,93,92,92.5,Excellent
+1034,22,Male,BSEMC,74,70,72,71.0,Needs Improvement
+1035,20,Female,BSCS,98,97,99,98.0,Excellent
+1036,19,Male,BSIT,80,82,81,81.5,Good
+1037,21,Female,BSEMC,87,88,86,87.0,Good
+1038,20,Male,BSCS,93,95,94,94.5,Excellent
+1039,19,Female,BSIT,69,73,71,72.0,Needs Improvement
+1040,21,Male,BSEMC,86,84,85,84.5,Good
+1041,20,Female,BSCS,91,90,92,91.0,Excellent
+1042,19,Male,BSIT,78,80,79,79.5,Needs Improvement
+1043,22,Female,BSEMC,95,96,94,95.0,Excellent
+1044,20,Male,BSCS,84,82,83,82.5,Good
+1045,21,Female,BSIT,90,89,91,90.0,Excellent
+1046,19,Male,BSEMC,72,75,73,74.0,Needs Improvement
+1047,20,Female,BSCS,88,87,89,88.0,Good
+1048,21,Male,BSIT,97,96,98,97.0,Excellent
+1049,19,Female,BSEMC,81,83,82,82.5,Good
+1050,20,Male,BSCS,89,90,88,89.0,Good
+1051,20,Female,BSIT,85.0,92,91,91.5,Excellent
+1052,19,Male,BSCS,85.0,85,82,83.5,Good
